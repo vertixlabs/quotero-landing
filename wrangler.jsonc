@@ -1,0 +1,11 @@
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "quotero-landing",
+  "compatibility_date": "2026-11-02",
+  // Sitio estático: se publica la raíz del repo (ver .assetsignore)
+  "assets": {
+    "directory": ".",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "single-page-application"
+  }
+}
