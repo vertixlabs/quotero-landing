@@ -12,7 +12,7 @@ The official marketing landing page and web presence for **Quotero** (`quotero.a
 ## Deployment to Cloudflare Pages
 
 1. In Cloudflare Dashboard, navigate to **Compute (Workers & Pages)** > **Create application** > **Pages** > **Connect to Git**.
-2. Select repository `innovaol/quotero`.
+2. Select repository `vertixlabs/quotero-landing`.
 3. Build Settings:
    - Framework preset: `None`
    - Build output directory: `/`
